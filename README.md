@@ -29,7 +29,7 @@ The system is designed using AWS Free Tier–eligible services, follows modern c
 This project follows a **serverless architecture**, meaning no traditional servers are managed manually.
 
 ### Architecture Diagram
-![Architecture Diagram](/assests/full-stack-archi.png)
+![Architecture Diagram](/assests/Full-stack-archi.png)
 
 ### High-Level Flow
 1. User interacts with the frontend (HTML/CSS/JS).
